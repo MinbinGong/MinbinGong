@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Minbin Gong
+- 👀 I’m interested in Linux kernel and distributed system
+- 🌱 I’m currently learning ceph and kafka
+- 📫 How to reach me @mail: gongwayne@hotmail.com
